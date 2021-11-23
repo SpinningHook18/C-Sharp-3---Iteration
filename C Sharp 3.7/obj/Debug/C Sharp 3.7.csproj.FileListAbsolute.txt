@@ -1,0 +1,7 @@
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 3.7\C Sharp 3.7\bin\Debug\C Sharp 3.7.exe.config
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 3.7\C Sharp 3.7\bin\Debug\C Sharp 3.7.exe
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 3.7\C Sharp 3.7\bin\Debug\C Sharp 3.7.pdb
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 3.7\C Sharp 3.7\obj\Debug\C Sharp 3.7.csprojAssemblyReference.cache
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 3.7\C Sharp 3.7\obj\Debug\C Sharp 3.7.csproj.CoreCompileInputs.cache
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 3.7\C Sharp 3.7\obj\Debug\C Sharp 3.7.exe
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\C Sharp 3.7\C Sharp 3.7\obj\Debug\C Sharp 3.7.pdb

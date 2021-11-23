@@ -1,0 +1,6 @@
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\CSharp 3.3\CSharp 3.3\bin\Debug\CSharp 3.3.exe.config
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\CSharp 3.3\CSharp 3.3\bin\Debug\CSharp 3.3.exe
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\CSharp 3.3\CSharp 3.3\bin\Debug\CSharp 3.3.pdb
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\CSharp 3.3\CSharp 3.3\obj\Debug\CSharp 3.3.csproj.CoreCompileInputs.cache
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\CSharp 3.3\CSharp 3.3\obj\Debug\CSharp 3.3.exe
+C:\Users\sy212775\OneDrive - Xaverian College\Documents\Computer Science Programming\CSharp 3.3\CSharp 3.3\obj\Debug\CSharp 3.3.pdb
